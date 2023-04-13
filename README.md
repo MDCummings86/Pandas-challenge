@@ -1,6 +1,6 @@
 # Pandas-challenge
 
-I did seek assistance from AskBCS in regards to a coding issue as the question asked for a value, but we determined a dataframe was needed in order to work with the followint provided code. Once I figured that out and cleaned up some minor typos, I was able to run lines of code that we went over in days 1, 2, and 3 of class. No code was taken from outside sources. The following is my written evaluation.
+This execise went much smoother for me. I did seek assistance from AskBCS in regards to a coding issue as the question asked for a value, but we determined a dataframe was needed in order to work with the followint provided code. Once I figured that out and cleaned up some minor typos, I was able to run lines of code that we went over in days 1, 2, and 3 of class. No code was taken from outside sources. The following is my written evaluation.
 
 In general, we can see that average percent of overall passing schools by type leans heavily in favor of the charter school with math being the principal challenge. The average math and reading scores are both higher; however, the primary disparity lies with district schools only passing math at a rate of 66.55% compared to the charter schools at 93.62%. 
 
